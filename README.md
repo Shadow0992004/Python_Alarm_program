@@ -7,3 +7,5 @@ Time intervals are mentioned below which I have on my program
 Water - water.mp3 (3.5 litres) - Drank - log - Every 40 min
 Eyes - eyes.mp3 - every 30 min - EyDone - log - Every 30 min
 Physical activity - physical.mp3 every - 45 min - ExDone - log
+
+Also I HAVE created a log file where it will write the time stamps of user activity
